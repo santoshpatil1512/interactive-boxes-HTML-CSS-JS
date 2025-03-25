@@ -34,6 +34,6 @@ A responsive, interactive product selection interface with expandable options an
 
 This project is deployed on Vercel for instant preview:
 
-[![Deploy with Vercel](https://vercel.com/button)]
+[![Deploy with Vercel](https://vercel.com)]
 
-(https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Finteractive-bogo-boxes)
+(https://interactive-boxes-html-css-js.vercel.app/)

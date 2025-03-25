@@ -1,4 +1,3 @@
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -60,7 +59,7 @@ body {
     font-size: 0.7rem;
     font-weight: bold;
     z-index: 1;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .box-header {
@@ -76,15 +75,19 @@ body {
     font-size: 1rem;
 }
 
-                /* Discount text styling */
-                .discount {
-                    /* color: #ff6b6b;  Red color */
-                    font-size: 0.9rem; /* Slightly smaller font */
-                    margin-left: 5px; /* Space from title */
-                    background-color: #ff6b6b; /* Red background */
-                    color: white;
-                    border-radius: 5px; /* Rounded corners */
-                }
+/* Discount text styling */
+.discount {
+    /* color: #ff6b6b;  Red color */
+    font-size: 0.9rem;
+    /* Slightly smaller font */
+    margin-left: 5px;
+    /* Space from title */
+    background-color: #ff6b6b;
+    /* Red background */
+    color: white;
+    border-radius: 5px;
+    /* Rounded corners */
+}
 
 
 .price-container {
@@ -183,7 +186,7 @@ body {
     .container {
         padding: 15px;
     }
-    
+
     .box-header {
         padding: 12px;
     }
